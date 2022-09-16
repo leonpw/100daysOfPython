@@ -16,4 +16,3 @@ elif bmi < 25:
     print("Still ok.")
 else:
     print('Obese.')
-    
