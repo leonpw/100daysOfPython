@@ -1,4 +1,3 @@
-from xml.sax.handler import property_interning_dict
 import random
 
 numb = 0
